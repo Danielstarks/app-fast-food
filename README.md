@@ -1,59 +1,53 @@
-# Web app Fast Food#
+# App Food Fun#
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Danielstarks/app-fast-food/blob/main/LICENCE) 
 
 # Sobre o projeto
+https://app-fast-food.vercel.app/
 
-https://wmazoni-sds1.netlify.app
+Food Fun é uma aplicação Frontend, web e mobile construída para ilustrar uma loja de comidas leves e sabores frescos com estilos e interatividade.
 
-Food é uma aplicação Frontend web e mobile construída  
-
-A aplicação consiste em um design de website para pedidos de delivery, onde os dados são coletados e gerenciados no app para formular o pedidos.
-
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+A aplicação consiste em um design de website para pedidos de delivery, onde os dados são coletados e gerenciados no app para formular os pedidos.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/Danielstarks/app-fast-food/blob/main/assets/web-food-1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/Danielstarks/app-fast-food/blob/main/assets/web-food-2.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Web 3](https://github.com/Danielstarks/app-fast-food/blob/main/assets/web-food-3.png)
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS / JS /
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML
+- CSS
+- Javascript
+
 ## Implantação em produção
-- Back end: Heroku
 - Front end web: Netlify
 
 # Como executar o projeto
 
 
 ## Front end web
-Pré-requisitos: npm / yarn
+Pré-requisitos: git / github / bash / vs code 
 
 ```bash
 # clonar repositório
 git clone https://github.com/devsuperior/sds1-wmazoni
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd app-fast-food
 
 # instalar dependências
-yarn install
-
+ VS CODE
+sudo apt-get install vs-code
+ 
 # executar o projeto
-yarn start
+plugin live serve
 ```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Daniel Gomes dos Santos
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/daniel-santos1/
 
