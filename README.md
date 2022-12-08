@@ -32,7 +32,7 @@ Pré-requisitos: git / github / bash / vs code
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Danielstarks/app-fast-food.git
 
 # entrar na pasta do projeto front end web
 cd app-fast-food
